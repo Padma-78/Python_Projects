@@ -1,0 +1,25 @@
+Robo Speaker
+Weather App
+Image Resizer
+PDF Merger
+Face Recognition Attendance 
+
+
+
+act as a resume builder who creates resume according to the job description
+
+- i am looking for Data Analyst role
+- i am a CSE graduate
+- i am equipped with analytical skills
+- i am a fresher
+- i have done various projects on this domain
+
+make money
+manage money
+grow money
+rule of 72
+72/12% = 6 years
+
+value investing
+ratio
+PE Ratio,PB Ratio,Debt Ratio,Current Ratio 
